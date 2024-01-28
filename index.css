@@ -7,7 +7,6 @@ html {
     padding: 0;
     display: block;
     margin-right: 1px;
-    /* width: 143%; */
     box-sizing: border-box;
     width: 100%;
 }
@@ -27,7 +26,6 @@ body {
     width: 100%;
 }
 
-/* Header */
 .head {
     padding: 15px 17px;
     display: flex;
@@ -80,7 +78,6 @@ body {
     text-decoration: none;
 }
 
-/* Part-1 */
 
 .content {
     display: block;
@@ -105,7 +102,7 @@ body {
     position: relative;
     padding: 50px 5%;
     width: 40%;
-    /* width: 1500px; */
+
 }
 
 .welcome {
@@ -137,7 +134,6 @@ body {
 
 }
 
-/* Part-2 */
 
 .start {
     background-color: #000;
@@ -156,7 +152,7 @@ body {
     position: relative;
     padding: 50px 5%;
     width: 58%;
-    /* width: 1500px; */
+
     padding-left: 1100px;
 }
 
@@ -188,7 +184,6 @@ body {
 
 }
 
-/* Part-3 */
 
 .memberships {
     background-color: #000;
@@ -207,7 +202,6 @@ body {
     position: relative;
     padding: 50px 5%;
     width: 40%;
-    /* width: 1500px; */
 
 }
 
@@ -227,7 +221,6 @@ body {
 }
 
 
-/* Part-4 */
 
 .tv-stick {
 
@@ -247,7 +240,6 @@ body {
     position: relative;
     width: 40%;
     padding: 50px 5%;
-    /* width: 1500px; */
     padding-left: 1000px;
 
 }
@@ -261,7 +253,6 @@ body {
     font-size: 21px;
 }
 
-/* Part-5 */
 
 .multi-content {
     display: flex;
@@ -296,7 +287,6 @@ body {
     font-size: 21px;
 }
 
-/* Part-6 */
 .family {
 
     background-color: #000;
@@ -327,7 +317,6 @@ body {
     font-size: 21px;
 }
 
-/* footer */
 
 .foot {
 
